@@ -8,5 +8,6 @@ public class Program {
         byte q = (byte) (a + b);
         System.out.println(q);
 
+
     }
 }
